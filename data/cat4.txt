@@ -1,0 +1,184 @@
+1. Jak nazywa się organ międzynarodowy ustalający ogólnoświatowe zasady wykonywania działalności telekomunikacyjnej i radiokomunikacyjnej?
+    A. Organizacja Narodów Zjednoczonych (ONZ)
+    B. Międzynarodowy Związek Telekomunikacyjny (ITU)
+    C. Światowa Organizacja Handlu (WTO)
+2. Gdzie mieści się siedziba Międzynarodowego Związku Telekomunikacyjnego (ITU)?
+    A. w Nowym Jorku
+    B. w Wiedniu
+    C. w Genewie
+3. Ile krajów zrzesza Międzynarodowy Związek Telekomunikacyjny?
+    A. 50-100
+    B. 100-150
+    C. 150-200
+4. Jaki organ Międzynarodowego Związku Telekomunikacyjnego (ITU) decyduje o przeznaczeniach poszczególnych zakresów częstotliwości dla różnych służb radiokomunikacyjnych?
+    A. Rada Międzynarodowego Związku Telekomunikacyjnego (ITU)
+    B. Światowe Konferencje Radiokomunikacyjne
+    C. Biuro Radiokomunikacji ITU
+5. Jaki dokument obowiązujący wszystkie kraje członkowskie Międzynarodowego Związku Telekomunikacyjnego (ITU) określa zasady wykonywania służby radiokomunikacyjnej amatorskiej i służby amatorskiej satelitarnej oraz wymienia przyznane tym służbom zakresy częstotliwości?
+    A. Konstytucja ITU
+    B. Regulamin Radiokomunikacyjny (Radio Regulations) ITU
+    C. Konwencja ITU
+6. W którym roku Rzeczpospolita Polska przystąpiła do Międzynarodowego Związku Telekomunikacyjnego (ITU)?
+    A. 1921
+    B. 1935
+    C. 1956
+7. Jak brzmi definicja służby amatorskiej zamieszczona w Regulaminie Radiokomunikacyjnym Międzynarodowego Związku Telekomunikacyjnego (ITU)
+    A. „służba radiokomunikacyjna wykonywana przez radioamatorów w celu nawiązywania wzajemnych znajomości i wymiany informacji technicznych”
+    B. „służba radiokomunikacyjna mająca na celu samokształcenie, wzajemne komunikowanie się i eksperymenty techniczne prowadzone przez amatorów, to jest przez odpowiednio upoważnione osoby interesujące się techniką radiową wyłącznie z pobudek osobistych, bez celów zarobkowych”
+    C. „służba radiokomunikacyjna mająca na celu badanie propagacji fal radiowych w zakresach krótkofalowym i ultrakrótkofalowym oraz warunków meteorologicznych”
+8. Regulamin Radiokomunikacyjny ITU dzieli świat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje się Polska?
+    A. w trzecim
+    B. w pierwszym
+    C. w drugim
+9. Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klęsk żywiołowych i innych zagrożeń?
+    A. nie zezwala na takie wykorzystanie stacji amatorskich
+    B. niezbędny jest specjalny wpis do pozwolenia radioamatorskiego
+    C. usilnie zaleca się wykorzystywanie stacji amatorskich w powyższych przypadkach
+10. Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znaków wywoławczych stacjom amatorskim?
+    A. nie, regulują to przepisy krajowe
+    B. tak, Regulamin Radiokomunikacyjny określa ściśle zasady przyznawania znaków
+    C. nie, znak wywoławczy obiera sobie sam operator stacji
+11. Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczące służby amatorskiej obowiązują również w służbie amatorskiej satelitarnej?
+    A. tak, obowiązują
+    B. nie, obowiązują odrębne przepisy
+    C. nie obowiązują żadne przepisy
+12. Co zgodnie z Regulaminem Radiokomunikacyjnym ITU musi zapewnić operator amatorskiej orbitalnej stacji satelitarnej?
+    A. nadawanie przez amatorską stację satelitarną jej znaku wywoławczego
+    B. niezwłoczne zdalne wyłączenie amatorskiej stacji satelitarnej w przypadku powodowania przez nią szkodliwych zakłóceń dla innych służb radiokomunikacyjnych
+    C. nadawanie przez amatorską stację satelitarną komunikatów meteorologicznych
+13. Jak nazywa się organ międzynarodowy zrzeszający krajowe administracje łączności z terenu Europy?
+    A. Rada Europy (EC)
+    B. Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT)
+    C. Organizacja Bezpieczeństwa i Współpracy w Europie (OBWE)
+14. Gdzie mieści się siedziba Europejskiego Biura Komunikacji (ECO)?
+    A. w Brukseli
+    B. w Helsinkach
+    C. w Kopenhadze
+15. Jakiego rodzaju dokumenty regulujące działalność radiokomunikacyjną w Europie przyjmuje i wprowadza Europejska Konferencja Administracji Pocztowych i Telekomunikacyjnych (CEPT) i publikuje Europejskie Biuro Komunikacji (ECO)?
+    A. decyzje
+    B. decyzje i zalecenia
+    C. decyzje, zalecenia i raporty
+16. Jakie dokumenty Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) regulują sprawę międzynarodowego uznawania pozwoleń i międzynarodowych wymagań egzaminacyjnych w służbie amatorskiej?
+    A. Uchwały Komitetu Komunikacji Elektronicznej CEPT
+    B. Zalecenia CEPT T/R 61-01 i T/R 61-02
+    C. Zalecenia CEPT T/R 22-01 i T/R 22-02
+17. Przez jaki okres czasu może posiadacz międzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracować z terytorium innego kraju uznającego to zalecenie, bez konieczności uzyskiwania pozwolenia od miejscowej administracji łączności?
+    A. 1 miesiąc
+    B. 3 miesiące
+    C. 1 rok
+18. Czy przepisy Międzynarodowego Związku Telekomunikacyjnego (ITU) i Europejskiej Konferencji Administracji Pocztowych i Telekomunikacyjnych (CEPT) wprowadzają obowiązkowy wymóg umiejętności odbioru i nadawania znaków w kodzie Morse’a przy egzaminie na świadectwo radiooperatora w służbie amatorskiej?
+    A. wprowadzają wymóg jako obowiązkowy
+    B. pozostawiają powyższy wymóg do decyzji krajowych administracji łączności
+    C. znoszą całkowicie powyższy wymóg
+19. Kto określa maksymalną moc wyjściową radiostacji amatorskiej podawaną w pozwoleniu?
+    A. Międzynarodowy Związek Telekomunikacyjny (ITU)
+    B. Europejskie Biuro Komunikacji (ECO)
+    C. krajowa administracja łączności
+20. Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym?
+    A. Międzynarodowy Związek Telekomunikacyjny (ITU)
+    B. Międzynarodowy Związek Radioamatorów (IARU)
+    C. Europejskie Biuro Komunikacji (ECO)
+21. Ile organizacji regionalnych składa się na ogólnoświatowy Międzynarodowy Związek Radioamatorów (IARU – the International Amateur Radio Union)?
+    A. trzy
+    B. cztery
+    C. pięć
+22. W którym roku i w jakim miejscu powstał Międzynarodowy Związek Radioamatorów (IARU)?
+    A. w roku 1930 w Genewie
+    B. w roku 1925 w Paryżu
+    C. w roku 1910 w Berlinie
+23. W którym roku powstał Polski Związek Krótkofalowców (PZK)?
+    A. w roku 1924
+    B. w roku 1930
+    C. w roku 1946
+24. Jaki organ krajowy reguluje i kontroluje pracę stacji amatorskich oraz wydaje pozwolenia w służbie amatorskiej?
+    A. Minister właściwy do spraw łączności
+    B. Prezes Urzędu Komunikacji Elektronicznej
+    C. Minister właściwy do spraw wewnętrznych
+25. Jaki podstawowy akt prawny reguluje działalność telekomunikacyjną i radiokomunikacyjną w Polsce?
+    A. statut Urzędu Komunikacji Elektronicznej (UKE)
+    B. ustawa Prawo ochrony środowiska
+    C. ustawa Prawo telekomunikacyjne
+26. W jakim dokumencie określone są zakresy częstotliwości przeznaczone w Polsce dla służby amatorskiej i służby amatorskiej satelitarnej?
+    A. w ustawie Prawo telekomunikacyjne
+    B. w rozporządzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości
+    C. w decyzjach Prezesa Urzędu Komunikacji Elektronicznej
+27. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie „służba pierwszej ważności” oznacza, że:
+    A. służba taka nie jest chroniona przed szkodliwymi zakłóceniami ze strony służb drugiej ważności
+    B. służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości zostały już przydzielone
+    C. służba taka jest chroniona przed szkodliwymi zakłóceniami ze strony stacji służb drugiej ważności oraz ze strony stacji tej samej lub innych służb pierwszej ważności, którym częstotliwości zostały przydzielone w późniejszym terminie, służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym wcześniej przydzielono częstotliwości
+28. Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie „służba drugiej ważności” oznacza, że:
+    A. służba taka może powodować szkodliwe zakłócenia w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie
+    B. służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb drugiej ważności, którym wcześniej przydzielono częstotliwości; służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji służb pierwszej ważności; służba taka może jednak żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości zostały przydzielone w późniejszym terminie
+    C. służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości zostały przydzielone w późniejszym terminie
+29. Jaki dokument określa kategorie pozwoleń w służbie amatorskiej i dozwolone moce wyjściowe radiostacji amatorskiej?
+    A. ustawa Prawo telekomunikacyjne
+    B. rozporządzenie ministra właściwego do spraw łączności
+    C. zarządzenie Prezesa Urzędu Komunikacji Elektronicznej
+30. Do czego upoważnia świadectwo operatora klasy A w służbie radiokomunikacyjnej amatorskiej?
+    A. do uzyskania pozwolenia amatorskiego kategorii 1
+    B. do uzyskania pozwolenia amatorskiego kategorii 3
+    C. wyłącznie do pracy na radiostacji klubowej
+31. Do czego upoważnia świadectwo operatora klasy C w służbie radiokomunikacyjnej amatorskiej?
+    A. do uzyskania pozwolenia amatorskiego kategorii 2
+    B. do uzyskania pozwolenia amatorskiego kategorii 3
+    C. do organizowania zawodów w amatorskiej radiolokacji sportowej
+32. Na jaki okres czasu wydawane są indywidualne pozwolenia amatorskie kategorii 1 i 3?
+    A. 10 lat
+    B. 15 lat
+    C. dożywotnio
+33. Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5?
+    A. 5 lat
+    B. 10 lat
+    C. 15 lat
+34. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 1 uzyskanego po raz pierwszy?
+    A. 50 watów
+    B. 500 watów
+    C. 250 watów
+35. Jaka jest maksymalna moc wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 3?
+    A. 15 watów
+    B. 100 watów
+    C. 150 watów
+36. Jaka jest moc maksymalna wyjściowa radiostacji amatorskiej w przypadku pozwolenia kategorii 5?
+    A. 50 watów dla nadajnika poniżej 30MHz, a 15 watów da nadajnika powyżej 30MHz
+    B. 50 watów
+    C. 150 watów
+37. Jaka jest maksymalna moc wyjściowa radiostacji w przypadku pozwolenia dodatkowego?
+    A. 500 watów
+    B. 1000 watów
+    C. 1500 watów
+38. W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1?
+    A. 3500 – 3800 kHz oraz 7000 – 7100 kHz
+    B. 7000 – 7100 kHz oraz 28000 – 29700 kHz
+    C. we wszystkich zakresach częstotliwości przeznaczonych dla służby radiokomunikacyjnej amatorskiej na terytorium RP
+39. W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3?
+    A. 28000 – 29700 kHz oraz 144 – 146 MHz
+    B. 1,81-2 MHz; 3,5-3,8 MHz; 7-7,2 MHz; 14-14,35 MHz; 21-21,45 MHz; 28-29,7 MHz, 144 – 146 MHz; 430 – 440 MHz oraz 10-10,5 GHz.
+    C. 28000 – 29700 kHz oraz 430 – 440 MHz
+40. Jaki jest minimalny wiek, w którym można przystąpić do egzaminu i uzyskać świadectwo operatora urządzeń radiowych w służbie amatorskiej oraz uzyskać pozwolenie dla służby radiokomunikacyjnej amatorskiej?
+    A. 10 lat dla uzyskania świadectwa klasy C oraz 15 lat dla uzyskania świadectwa klasy A
+    B. 15 lat dla uzyskania świadectwa klasy A i C
+    C. nie określono minimalnego wieku
+41. Jakimi rodzajami emisji radiowych wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 50 – 52 MHz?
+    A. wyłącznie emisją A1A (telegrafia)
+    B. wyłącznie emisją F3E (telefonia z modulacją częstotliwości)
+    C. wszystkimi rodzajami emisji z wyjątkiem F3E
+42. Jakimi rodzajami emisji radiowych i z jaką mocą wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 135,7 – 137,8 kHz?
+    A. wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów
+    B. wszystkimi rodzajami emisji z mocą wyjściową 250 watów
+    C. wyłącznie emisją A1A (telegrafia) z mocą 1 wat e.i.r.p. (równoważna moc promieniowana izotropowo)
+43. Jaki dokument określa klasy świadectw operatora radiowego w służbie amatorskiej i wymagania egzaminacyjne na poszczególne klasy świadectw?
+    A. rozporządzenie ministra właściwego do spraw łączności
+    B. ustawa Prawo telekomunikacyjne
+    C. Krajowa Tablica Przeznaczeń Częstotliwości
+44. Jak powinien postąpić operator stacji amatorskiej w razie przypadkowego odebrania wiadomości nie przeznaczonej dla służby amatorskiej?
+    A. rozpowszechnić odebraną wiadomość w internecie
+    B. zachować treść wiadomości w ścisłej tajemnicy
+    C. zachować treść wiadomości w ścisłej tajemnicy, zaś w przypadku gdy odebrana wiadomość zawiera istotne dla funkcjonowania Państwa lub porządku publicznego informacje – powiadomić najbliższą jednostkę Urzędu Komunikacji Elektronicznej
+45. Czy operator stacji amatorskiej może przekazywać przy pomocy swej radiostacji wiadomości pochodzące od osób trzecich i przeznaczone dla osób trzecich?
+    A. jest to dopuszczalne
+    B. jest to surowo zabronione
+    C. jest to dopuszczalne, jeśli stacja amatorska bierze udział w akcji niesienia pomocy lub likwidacji skutków klęsk żywiołowych i katastrof
+46. Jak często operator radiostacji amatorskiej powinien podawać podczas łączności znak wywoławczy swej stacji?
+    A. co pół godziny
+    B. tak często, jak jest to w praktyce możliwe, przynajmniej na początku i na końcu każdego nadawania
+    C. nie musi podawać znaku wywoławczego
