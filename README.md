@@ -1,2 +1,5 @@
-### This app is designed to convert questions formatted as list in `.txt` file into `SQL` `INSERT` format
-### It takes data from `data/` directory and the output is in the `output/`
+# Python scripts
+
+## 1. RadioAmateurExamQuestionsToSQLInsert
+This app was designed to convert list of questions from .txt file to SQL Insert format. 
+There was to many questions to do it manually, so I decided to create script which will do it for me.
